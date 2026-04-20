@@ -1,0 +1,5 @@
+- OHM'S Law:
+  - V = I x R
+  - I = V/R
+  - R = V/I
+  - P = V x I or I^2 x R
